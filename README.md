@@ -1,3 +1,9 @@
+# This Fork
+
+This fork was created in order to provide Unity-compatible code to support the [PlayfabCSHarpSDK (orig)](https://github.com/PlayFab/CSharpSDK) usage in Unity, which has Polly marked as a dependency. 
+
+The Package version of this repo was stripped using `git subtree split` to extract only the source code dir to restrict package to only the necessary files for distribution as package. License, Readme, and Changelog has been preserved. 
+
 
 # Polly
 

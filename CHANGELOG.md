@@ -1,3 +1,5 @@
+## 7.3.1
+- Extracted from tag 7.2.3+24 to isolate Unity-compatible code for distribution as Unity Package to support PlayfabCSharpSDK [@zombience](https://github.com/zombience)
 
 ## 7.3.0
 
